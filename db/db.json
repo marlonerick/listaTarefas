@@ -1,0 +1,104 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "tarefa": "Estudar Html",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "tarefa": "Praticar JavaScript",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "tarefa": "Aprender CSS",
+      "complete": false
+    },
+    {
+      "id": 4,
+      "tarefa": "Desenvolver um projeto em Python",
+      "complete": true
+    },
+    {
+      "id": 5,
+      "tarefa": "Estudar SQL",
+      "complete": false
+    },
+    {
+      "id": 6,
+      "tarefa": "Fazer exercícios de matemática",
+      "complete": true
+    },
+    {
+      "id": 7,
+      "tarefa": "Ler um livro de ficção",
+      "complete": false
+    },
+    {
+      "id": 8,
+      "tarefa": "Praticar meditação",
+      "complete": true
+    },
+    {
+      "id": 9,
+      "tarefa": "Fazer exercícios físicos",
+      "complete": false
+    },
+    {
+      "id": 10,
+      "tarefa": "Aprender a tocar um instrumento",
+      "complete": false
+    },
+    {
+      "id": 11,
+      "tarefa": "Criar um projeto em Angular",
+      "complete": false
+    },
+    {
+      "id": 12,
+      "tarefa": "Estudar Node.js",
+      "complete": true
+    },
+    {
+      "id": 13,
+      "tarefa": "Estudar/Fazer um curso de UX/UI Design",
+      "complete": false
+    },
+    {
+      "id": 14,
+      "tarefa": "Aprender Python para análise de dados",
+      "complete": false
+    },
+    {
+      "id": 15,
+      "tarefa": "Desenvolver um aplicativo mobile",
+      "complete": true
+    },
+    {
+      "id": 16,
+      "tarefa": "Estudar algoritmos e estruturas de dados",
+      "complete": false
+    },
+    {
+      "id": 17,
+      "tarefa": "Aprender a criar APIs RESTful",
+      "complete": false
+    },
+    {
+      "id": 18,
+      "tarefa": "Explorar técnicas de aprendizado de máquina",
+      "complete": false
+    },
+    {
+      "id": 19,
+      "tarefa": "Realizar testes de unidade e integração",
+      "complete": true
+    },
+    {
+      "id": 20,
+      "tarefa": "Estudar princípios de design responsivo",
+      "complete": false
+    }
+  ]
+}
